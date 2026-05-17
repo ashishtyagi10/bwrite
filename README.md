@@ -1,5 +1,7 @@
-# My Books
+# Bwrite Workspace
 
-Welcome to my book repository! This repository contains a collection of books written by me.
+A workspace for writing and managing multiple book projects.
 
-Feel free to browse through the folders to find different books, drafts, and related materials.
+## Projects
+
+- [Ethos](./ethos/): The current book project.
